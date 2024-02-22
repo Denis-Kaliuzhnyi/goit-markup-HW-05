@@ -752,10 +752,6 @@ body {
   margin-bottom: 24px;
 }
 
-.checkbox-input {
-  visually: hidden;
-}
-
 .checkbox-text {
   font-size: 12px;
   line-height: 1.17;
