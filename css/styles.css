@@ -586,9 +586,6 @@ body {
   color: #ffffff;
 }
 
-placeholder {
-color #ffffff;
-}
 .user-name {
   background-color: #2e2f42;
 }
@@ -596,6 +593,12 @@ color #ffffff;
 .btn-footer {
   background-color: #4d5ae5;
   color: #fff;
+  min-width: 165px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .btn-footer-icon {
