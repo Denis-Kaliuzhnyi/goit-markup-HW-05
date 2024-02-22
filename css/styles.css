@@ -570,6 +570,7 @@ body {
 
 .modal-footer {
   gap: 24px;
+  display: flex;
 }
 
 .input-footer {
