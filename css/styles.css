@@ -552,6 +552,34 @@ body {
   background-color: #31d0aa;
 }
 
+.email-input {
+  width: 453px;
+  height: 80px;
+  margin-right: 159px;
+}
+
+.subscribe {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--white);
+}
+
+.user-name {
+  background-color: #2e2f42;
+}
+
+.btn-footer {
+  background-color: #4d5ae5;
+  color: #fff;
+}
+
+.btn-footer-icon {
+  color: #fff;
+}
+
 /*Modal Window*/
 
 .backdrop-hero {
