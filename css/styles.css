@@ -795,6 +795,6 @@ body {
   color: #4d5ae5;
 }
 
-.visually-hidden:checked ~ .span-pp {
+.input[type="checkbox"]:checked + .span-pp > .icon-pp {
   border: none;
 }
