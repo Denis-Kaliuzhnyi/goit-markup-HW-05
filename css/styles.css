@@ -794,3 +794,7 @@ body {
 .link-pp {
   color: #4d5ae5;
 }
+
+.visually-hidden:checked + .span-pp {
+  border: none;
+}
