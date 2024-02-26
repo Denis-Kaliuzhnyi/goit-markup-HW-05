@@ -632,19 +632,21 @@ body {
   align-items: center;
   justify-content: center;
   transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
-    visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  /*
+      visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);  
+    /*включити/виключити*/
   opacity: 0;
   pointer-events: none;
   visibility: hidden;*/
 }
 
-/*
 .backdrop-hero .is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: initial;
-} */
+  /*включити/виключити*/
+} 
+
+
 
 .modal {
   position: absolute;
